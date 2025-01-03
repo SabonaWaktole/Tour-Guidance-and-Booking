@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Tour-Guidance-and-Booking.git
+git clone https://github.com/SabonaWaktole/Tour-Guidance-and-Booking.git
 cd Tour-Guidance-and-Booking
 
 Install dependencies:
